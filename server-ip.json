@@ -2,9 +2,9 @@
   "ip": "37.156.143.230",
   "port": 27015,
   "map": "de_dust2_2x2_xmas",
-  "online": true,
-  "players": 10,
-  "max_players": 0,
+  "online": false,
+  "players": 0,
+  "max_players": 32,
   "server_name": "CHRISTMAS CHILL",
-  "updated_at": "2026-11-08T13:02:00.498927+00:00"
+  "updated_at": "2026-11-08T13:05:05.587884+00:00"
 }
