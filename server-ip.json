@@ -1,10 +1,10 @@
 {
   "ip": "37.156.143.230",
   "port": 27015,
-  "map": "de_inferno_winter",
-  "online": true,
-  "players": 10,
-  "max_players": 0,
+  "map": "de_dust2_2x2_xmas",
+  "online": false,
+  "players": 0,
+  "max_players": 32,
   "server_name": "CHRISTMAS CHILL",
-  "updated_at": "2026-11-08T12:57:51.210070+00:00"
+  "updated_at": "2026-11-08T13:01:27.923719+00:00"
 }
