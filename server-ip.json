@@ -1,10 +1,10 @@
 {
   "ip": "37.156.143.230",
   "port": 27015,
-  "map": "de_nuke2x2_snow",
-  "online": true,
-  "players": 10,
-  "max_players": 0,
+  "map": "de_dust2_2x2_xmas",
+  "online": false,
+  "players": 0,
+  "max_players": 32,
   "server_name": "CHRISTMAS CHILL",
-  "updated_at": "2026-11-08T12:14:43.094402+00:00"
+  "updated_at": "2026-11-08T12:19:19.760502+00:00"
 }
